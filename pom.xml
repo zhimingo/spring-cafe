@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>pers.zhiming</groupId>
-    <artifactId>spring-cafe</artifactId>
+    <artifactId>whale-delivery</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>spring-cafe</name>
     <description>Demo project for Spring Boot</description>
